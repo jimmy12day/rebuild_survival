@@ -1,4 +1,4 @@
-# rebuild_survival with new features
+# (Rebuild) Survival Shooter
 I have rebuild the survival game from Unity3D formal website.
 link: http://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial
 
